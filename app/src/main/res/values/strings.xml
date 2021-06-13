@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Guess the day</string>
+    <string name="firstline">Guess the day of the week for the below mentioned date which is in <i>day/month/year</i> format</string>
+</resources>
